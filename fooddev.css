@@ -9,3 +9,33 @@ span {
 body {
     background-color: antiquewhite
 }
+
+.button {
+    height: 300px;
+    width: 150px;
+    font-size: 30px;
+}
+
+#booktable {
+    background-color: #FF5733;
+    color: white;
+}
+
+#readmore {
+    background-color: #FF5733;
+    color: white;
+}
+
+#explorefood {
+    background-color: #FF5733;
+    color: white;
+    font-weight: bold;
+}
+
+nav {
+    display: block;
+    width: 200px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
